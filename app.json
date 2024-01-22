@@ -5,7 +5,7 @@
   "env" : {
     "TOKEN" : {
       "description" : " bot token girin. " ,
-      "value" : " "
+      "value" : "6713288046:AAFGoYAMwT3PPeRy4HKGwN1OUuO4LgKpLTM"
     },
     "APP_ID" : {
       "description" : " @otomytelegrambot dan api hash api kimliği alınız. @LoseOnlineRobot'a ortak çalışsın " ,
