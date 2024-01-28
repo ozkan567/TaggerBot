@@ -9,11 +9,11 @@
     },
     "APP_ID" : {
       "description" : " @otomytelegrambot dan api hash api kimliği alınız. @LoseOnlineRobot'a ortak çalışsın " ,
-      "value" : "6713288046"
+      "value" : "14209813"
     },
     "API_HASH" : {
       "description" : " @otomytelegrambot dan api hash api kimliği alınız. " ,
-      "value" : " "
+      "value" : "f6fc4af6fa07543ace7bcf771e89cdd2"
     }
   },
   "buildpacks" : [{
